@@ -22,7 +22,7 @@ dat_harnik <- read.csv(here("data", "Harnik2011_data.csv"))
 # model the mean across all observations with a intercept-only glm
 # use a poisson distribution for count data
 # assign this to the variable mod1
-
+mod1 <- 
 
 # use the summary function to look at the output of the model
 # compare the estimate for the intercept with the mean that you calculated above.

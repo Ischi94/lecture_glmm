@@ -23,7 +23,7 @@ dat_harnik <- read.csv(here("data", "Harnik2011_data.csv"))
 # find out what link function the poisson model is using by looking at the help description of family()
 ?family()
 
-# retransform estimated coefficient by using the reverse link 
+# retransform the estimated coefficient by using the reverse link 
 
 
 # compare the estimate for the intercept with the mean that you calculated above.
