@@ -47,4 +47,3 @@ mod_glmm_slope <- glmer()
 # and coef_glmm_int
 
 
-# life coding goes here
